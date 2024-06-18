@@ -2,7 +2,7 @@
 
 # RealTime Hog 3000
 
-The start of something fresh, but not here. This has been moved to the [PostHog MonoRepo](https://github.com/posthog/posthog/livestream)
+The start of something fresh, but not here. This has been moved to the [PostHog MonoRepo](https://github.com/PostHog/posthog/tree/master/livestream)
 
 ## Installing
 
